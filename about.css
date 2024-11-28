@@ -1,0 +1,206 @@
+.navbar-brand{
+    padding-left: 10px;
+}
+
+#my-pic, #project-login, #project,  #project3{
+    transition: ease-out 0.5s;
+    border-radius: 15px;
+    width: 600px;
+}
+
+#my-pic:hover, #project-login:hover,  #project3:hover{
+    transition: ease 0.5s;
+    filter: drop-shadow(-10px -10px 5px rgba(255, 255, 255, 0.774));
+}
+
+.mb-3{
+    padding-top: 20px;
+}
+
+#title{
+    padding-top: 40px;
+}
+
+input[type="radio"]{
+    width: 20px;
+    height: 20px;
+}
+
+.form-check-label{
+    padding-left: 5px;
+    font-size: 18px;
+}
+
+#container-glass-parent{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    border-radius: 15px;
+}
+
+#text-title{
+    margin-top: 100px;
+}
+
+#email{
+    margin-top: 10px;
+}
+
+#select-concern{
+    transition: ease-out .2s;
+    margin-top: 10px;
+}
+
+#concern-textarea{
+    margin-bottom: 20px;
+}
+
+#concern-lbl{
+    margin-top: 10px;
+}
+
+#sel-con{
+    margin-top: 10px;
+}
+
+#lblem{
+    margin-top: 10px;
+}
+
+#alarm{
+    transition: ease-out 0.5s;
+}
+
+#alarm:hover, #project:hover{
+    transition: ease 0.5s;
+    filter: drop-shadow(10px 10px 5px rgba(0, 0, 0, 0.774));
+}
+
+#sched:hover{
+    transition: ease 0.5s;
+    filter: drop-shadow(-10px -10px 5px rgba(51, 211, 123, 0.774));
+}
+
+#sched{
+    transition: ease-out 0.5s;
+}
+
+#my-skills{
+    transition: ease-out 0.5s;
+}
+
+#my-skills:hover{
+    transition: ease 0.5s;
+    filter: drop-shadow(-10px -10px 5px rgba(255, 255, 255, 0.774));
+}
+
+nav a{
+    transition: ease-out 0.2s;
+}
+
+#table-sched{
+    transition: ease-out 0.2s;
+}
+
+#table-sched:hover{
+    transition: ease 0.5s;
+    transform: scale(110%);
+}
+
+#staticName{
+    transition: ease-out .2s;
+}
+
+#staticName:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#staticName:focus{
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#email{
+    transition: ease-out .2s;
+}
+
+#email:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#email:focus{
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#select-concern:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#select-gender:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#select-gender{
+    transition: ease-out .2 s;
+}
+
+#select-gender:focus{
+    transform: scale(105%);
+}
+
+#select-concern:focus{
+    transform: scale(105%);
+}
+
+#concern-textarea{
+    transition: ease-out .2s;
+}
+
+#concern-textarea:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#concern-textarea:focus{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(70, 68, 68, 0.774));
+}
+
+#btn{
+    transition: ease-out .2s;
+}
+
+#btn:hover{
+    transition: ease .5s;
+    transform: scale(115%);
+    filter: drop-shadow(10px 10px 5px rgba(255, 255, 255, 0.774));
+}
+
+nav a:hover{
+    transition: ease .5s;
+    transform: scale(105%);
+    filter: drop-shadow(10px 10px 5px rgba(255, 255, 255, 0.774)); 
+}
+
+#btnfb{
+    margin-top: 10px;
+    transition: ease-out .2s;
+}
+
+.fb-anchor{
+    text-decoration: none;
+}
+
+.fb-anchor:hover{
+    color: white;
+}
